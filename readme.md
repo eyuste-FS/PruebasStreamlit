@@ -26,3 +26,6 @@ docker build -t app-prueba-streamlit .
 docker run -dp 8501:8501 app-prueba-streamlit
 ```
 
+---
+
+Acceso desde ```http://localhost:8501/```
