@@ -3,6 +3,10 @@
 
 Las credenciales de administrador por defecto son ```admin / admin```.
 
+## Aclaraciones
+
+La inicialización de la base de datos es temporal y solo para mostrar datos de prueba, el almacenamiento de contraseñas en texto plano también.
+
 ## Howto
 Probado con Python 3.11
 
